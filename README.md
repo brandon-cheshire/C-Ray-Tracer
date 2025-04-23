@@ -1,9 +1,8 @@
-# C-Ray-Tracer
+# Ray Tracer implemented in C
 
 ![Example Image](scenedata.png)
 
-Ray Tracer implemented in C  
-to learn more, see Ray Tracer report.pdf  
+To learn more, see Ray Tracer Report.pdf  
 
 ## to run  
 open terminal in root directory and run  
