@@ -1,5 +1,7 @@
 # C-Ray-Tracer
 
+![Example Image](scenedata.png)
+
 Ray Tracer implemented in C  
 to learn more, see Ray Tracer report.pdf  
 
